@@ -1,156 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BTV  BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA.",BTV  BD
+#EXTINF:-1 tvg-id="" tvg-name="BTV  BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BANGLA CH.",BTV  BD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA.",Sangsad TV
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA CH.",Sangsad TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BANGLA CH.",BTV World
+http://bdiptv.myftp.biz:25461/live/PROBALTV/ROMAN/10508.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA " tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA.",ATN BANGLA 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA " tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA CH.",ATN BANGLA 
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel i HD " tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA.",Channel i HD 
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD " tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA CH.",Channel i HD 
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA.",EKUSHEY TV
+#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BANGLA CH.",EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NTV " tvg-logo="https://i.imgur.com/3usnOla.png " group-title="BANGLA.",NTV 
+#EXTINF:-1 tvg-id="" tvg-name="NTV " tvg-logo="https://i.imgur.com/3usnOla.png " group-title="BANGLA CH.",NTV 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://i.imgur.com/00HdGFD.jpg  " group-title="BANGLA.",BANGLA VISION HD
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://i.imgur.com/00HdGFD.jpg  " group-title="BANGLA CH.",BANGLA VISION HD
 http://cdn.banglatv.xyz/beeiptv-stb/banglavision/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" MAASRANGA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA.", MAASRANGA TV HD
+#EXTINF:-1 tvg-id="" tvg-name=" MAASRANGA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA CH.", MAASRANGA TV HD---
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV " tvg-logo="https://i.imgur.com/tVujSyj.jpg " group-title="BANGLA.",NAGORIK TV 
+#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA CH.",DEEPTO TV HD
+http://103.205.133.50/hls/deeptotv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA CH.",DEEPTO TV SD
+http://103.205.133.21/hls/deeptotv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV " tvg-logo="https://i.imgur.com/tVujSyj.jpg " group-title="BANGLA CH.",NAGORIK TV 
 http://103.205.133.50/hls/nagorik.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA.",DEEPTO TV 
-http://103.205.133.21/hls/deeptotv.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" GTV TV SD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA.", GTV TV SD
+#EXTINF:-1 tvg-id="" tvg-name=" GTV TV SD" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA CH.", GTV TV SD
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GTV TV HD " tvg-logo="https://i.imgur.com/Z0aOgZr.jpg " group-title="BANGLA.",GTV TV HD 
+#EXTINF:-1 tvg-id="" tvg-name="GTV TV HD " tvg-logo="https://i.imgur.com/Z0aOgZr.jpg " group-title="BANGLA CH.",GTV TV HD 
 http://103.132.180.245:8080/2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASAIN TV" tvg-logo="" group-title="BANGLA.",ASAIN TV
+#EXTINF:-1 tvg-id="" tvg-name="ASAIN TV" tvg-logo="" group-title="BANGLA CH.",ASAIN TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" SA TV HD " tvg-logo="https://i.imgur.com/PC5QaK3.jpg " group-title="BANGLA.", SA TV HD 
+#EXTINF:-1 tvg-id="" tvg-name=" SA TV HD " tvg-logo="https://i.imgur.com/PC5QaK3.jpg " group-title="BANGLA CH.", SA TV HD 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" BOISHAKHI TV" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA.", BOISHAKHI TV
+#EXTINF:-1 tvg-id="" tvg-name=" BOISHAKHI TV" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA CH.", BOISHAKHI TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RTV HD " tvg-logo="https://2wk12w2dk3733zyjdf3secd9-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Rtv-logo-PNG-2.png" group-title="BANGLA.",RTV HD 
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD " tvg-logo="https://2wk12w2dk3733zyjdf3secd9-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Rtv-logo-PNG-2.png" group-title="BANGLA CH.",RTV HD 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA.",MY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA CH.",MY TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" MOHONA TV " tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA.", MOHONA TV 
+#EXTINF:-1 tvg-id="" tvg-name=" MOHONA TV " tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BANGLA CH.", MOHONA TV 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV HD " tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA.",EKATTOR TV HD 
+#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV HD " tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BANGLA CH.",EKATTOR TV HD 
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR ---" tvg-logo="" group-title="BANGLA.",EKATTOR 
+#EXTINF:-1 tvg-id="" tvg-name="EKATTOR ---" tvg-logo="" group-title="BANGLA CH.",EKATTOR 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" DBC NEWS " tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA.", DBC NEWS 
+#EXTINF:-1 tvg-id="" tvg-name=" DBC NEWS " tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA CH.", DBC NEWS 
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" DBC NEWS " tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA.", DBC NEWS 2
+#EXTINF:-1 tvg-id="" tvg-name=" DBC NEWS " tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA CH.", DBC NEWS 2
 http://103.205.133.50/hls/dbcnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="  NEWS 24 HD" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA.",  NEWS 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="  NEWS 24 HD" tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA CH.",  NEWS 24 HD
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" JAMUNA TV " tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BANGLA.", JAMUNA TV 
+#EXTINF:-1 tvg-id="" tvg-name=" JAMUNA TV " tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BANGLA CH.", JAMUNA TV 
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS " tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA.",ATN NEWS 
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS " tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA CH.",ATN NEWS 
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA.",Independent TV
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA CH.",Independent TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA.",SOMOY TV
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BANGLA CH.",SOMOY TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA.",CHANNEL 24
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA CH.",CHANNEL 24
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DURONTHO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA.",DURONTHO TV
+#EXTINF:-1 tvg-id="" tvg-name="DURONTHO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BANGLA CH.",DURONTHO TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA SD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA.",STAR JALSHA SD
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA SD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA CH.",STAR JALSHA SD
 http://103.205.133.50/hls/chsj.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD++" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA.",STAR JALSHA HD **
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD++" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA CH.",STAR JALSHA HD **
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA SD " tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA.",ZEE BANGLA SD 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA SD " tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA CH.",ZEE BANGLA SD 
 http://103.205.133.50/hls/zeebangla.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD " tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA.",ZEE BANGLA HD **
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD " tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA CH.",ZEE BANGLA HD **
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="BANGLA.",COLORS BANGLA HD
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.imgur.com/7DKPT1P.jpg" group-title="BANGLA CH.",COLORS BANGLA HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA SD " tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA.",COLORS BANGLA SD 
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA SD " tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BANGLA CH.",COLORS BANGLA SD 
 http://103.205.133.50/hls/etvbangla.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH SD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA.",SONY AATH 
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH SD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA CH.",SONY AATH 
 http://103.205.133.50/hls/sony8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH HD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA.",SONY AATH 2
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH HD" tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA CH.",SONY AATH 2
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="BANGLA.",AKASH 8
+#EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="BANGLA CH.",AKASH 8
 https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU" group-title="BANGLA.",ENTER 10 BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQohbRTLJWveaXgHR_W1GaOXiYEDQ80QQnbeg&usqp=CAU" group-title="BANGLA CH.",ENTER 10 BANGLA
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RUPOSHI BANGLA " tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA.",RUPOSHI BANGLA 
+#EXTINF:-1 tvg-id="" tvg-name="RUPOSHI BANGLA " tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA CH.",RUPOSHI BANGLA 
 http://103.205.133.50/hls/ruposhibangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES SD " tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA.",JALSHA MOVIES SD 
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES SD " tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CH.",JALSHA MOVIES SD 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 
@@ -158,8 +163,12 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="BANGLA.",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="BANGLA CH.",ZEE BANGLA CINEMA
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+
+
+
 
 
 
@@ -229,6 +238,12 @@ https://watchindia.net:8443/live/54615/71210/818.ts?token=4e57e145719aee2f81ab10
 #EXTINF:-1 group-title="HINDI MOVIE CH. **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png",& Pictures HD
 https://watchindia.net:8443/live/54615/71210/783.ts?token=4e57e145719aee2f81ab10a954628a38-e11e09f1b3462817959637396fdf45455fdt45454455r75758
 
+
+
+#EXTINF:-1 group-title="HINDI MOVIE CH. **VIP**" https://watchindia.net/images/channels/hindi/Bollywood_Premier_HD.png",Bollywood Premier HD
+https://watchindia.net:8443/live/54615/71210/800.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
 #EXTINF:-1 group-title="HINDI MOVIE CH. **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png",Zee Bollywood
 https://watchindia.net:8443/live/54615/71210/822.ts?token=4e57e145719aee2f81ab10a954628a38-e11e09f1b3462817959637396fdf45455fdt45454455r75758
 #EXTINF:-1 group-title="HINDI MOVIE CH. **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png",Zee Cinema HD
@@ -254,34 +269,6 @@ https://watchindia.net:8443/live/54615/71210/824.ts?token=10d821821daa91b66e8dca
 https://watchindia.net:8443/live/54615/71210/806.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
 
 
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png",MTV Beats HD
-https://watchindia.net:8443/live/54615/71210/786.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png",MTV Hindi
-https://watchindia.net:8443/live/54615/71210/825.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-
-
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png",Mastiii
-https://watchindia.net:8443/live/54615/71210/826.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-
-
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png",Zoom
-https://watchindia.net:8443/live/54615/71210/842.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png",9X Jalwa
-https://watchindia.net:8443/live/54615/71210/828.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png",9XM Music
-https://watchindia.net:8443/live/54615/71210/827.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png",B4U Plus
-https://watchindia.net:8443/live/54615/71210/823.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png",B4U Music
-https://watchindia.net:8443/live/54615/71210/2113.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png",Kadak Hits HD
-https://watchindia.net:8443/live/54615/71210/798.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_Pop_HD.png",Bollywood Pop HD
-https://watchindia.net:8443/live/54615/71210/797.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_Premier_HD.png",Bollywood Premier HD
-https://watchindia.net:8443/live/54615/71210/800.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png",E24
-https://watchindia.net:8443/live/54615/71210/829.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
 
 
 
@@ -328,101 +315,146 @@ https://watchindia.net:8443/live/54615/71210/2179.ts
 #EXTINF:-1 group-title="ENGLISH CH **VIP**" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png",Sky Cinema Sci-Fi/Horror
 
 
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png",MTV Beats HD
+https://watchindia.net:8443/live/54615/71210/786.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png",MTV Hindi
+https://watchindia.net:8443/live/54615/71210/825.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_Pop_HD.png",Bollywood Pop HD
+https://watchindia.net:8443/live/54615/71210/797.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
 
 
 
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png",Star Maa HD
-https://watchindia.net:8443/live/54615/71210/933.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png",Star Maa HD 2
-https://watchindia.net:8443/live/54615/71210/2168.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png",Star Maa Movies HD
-https://watchindia.net:8443/live/54615/71210/934.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png",Star Maa Gold HD
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/9XM_Music.png",9XM Music
+https://watchindia.net:8443/live/54615/71210/827.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/9X_Jalwa.png",9X Jalwa
+https://watchindia.net:8443/live/54615/71210/828.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png",Mastiii
+https://watchindia.net:8443/live/54615/71210/826.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Zoom.png",Zoom
+https://watchindia.net:8443/live/54615/71210/842.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png",B4U Plus
+https://watchindia.net:8443/live/54615/71210/823.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png",B4U Music
+https://watchindia.net:8443/live/54615/71210/2113.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png",Kadak Hits HD
+https://watchindia.net:8443/live/54615/71210/798.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+#EXTINF:-1 group-title="Music  **VIP**" tvg-logo="https://watchindia.net/images/channels/hindi/E24.png",E24
+https://watchindia.net:8443/live/54615/71210/829.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png",Star Maa Gold HD
 https://watchindia.net:8443/live/54615/71210/935.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/TBO.png",Telugu Box Office
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png",Star Maa HD
+https://watchindia.net:8443/live/54615/71210/933.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png",Star Maa HD 2
+https://watchindia.net:8443/live/54615/71210/2168.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png",Star Maa Movies HD
+https://watchindia.net:8443/live/54615/71210/934.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/TBO.png",Telugu Box Office
 https://watchindia.net:8443/live/54615/71210/2155.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png",Colors HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png",Colors TAMIL
 https://watchindia.net:8443/live/54615/71210/2083.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD
+
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**",Colors Gujarati
+https://watchindia.net:8443/live/54615/71210/2180.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png",Colors HD Kannada
+https://watchindia.net:8443/live/54615/71210/982.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png",Colors Super HD
+https://watchindia.net:8443/live/54615/71210/983.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD
 https://watchindia.net:8443/live/54615/71210/846.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD 2
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png",Star Vijay HD 2
 https://watchindia.net:8443/live/54615/71210/2140.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD
 https://watchindia.net:8443/live/54615/71210/843.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD USA
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png",Sun TV HD USA
 https://watchindia.net:8443/live/54615/71210/2089.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png",Sun Life
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png",Sun Life
 https://watchindia.net:8443/live/54615/71210/847.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png",Sun Music HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png",Sun Music HD
 https://watchindia.net:8443/live/54615/71210/844.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
 
-
-#EXTINF:-1 group-title="TAMIL  **VIP**",Colors Gujarati
-https://watchindia.net:8443/live/54615/71210/2180.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png",Colors HD Kannada
-https://watchindia.net:8443/live/54615/71210/982.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png",Colors Super HD
-https://watchindia.net:8443/live/54615/71210/983.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_HD.png",Suvarna HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_HD.png",Suvarna HD
 https://watchindia.net:8443/live/54615/71210/985.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_News.png",Suvarna News
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_News.png",Suvarna News
 https://watchindia.net:8443/live/54615/71210/990.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_Plus.png",Suvarna Plus HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Suvarna_Plus.png",Suvarna Plus HD
 https://watchindia.net:8443/live/54615/71210/984.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_HD.png",Udaya HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_HD.png",Udaya HD
 https://watchindia.net:8443/live/54615/71210/1002.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Comedy.png",Udaya Comedy
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Comedy.png",Udaya Comedy
 https://watchindia.net:8443/live/54615/71210/988.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Movies.png",Udaya Movies
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Movies.png",Udaya Movies
 https://watchindia.net:8443/live/54615/71210/1004.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Music.png",Udaya Music
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Music.png",Udaya Music
 https://watchindia.net:8443/live/54615/71210/1003.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
 https://watchindia.net:8443/live/54615/71210/279.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
 https://watchindia.net:8443/live/54615/71210/1938.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png",Surya Comedy
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png",Surya Comedy
 https://watchindia.net:8443/live/54615/71210/299.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png",Surya Comedy USA
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png",Surya Comedy USA
 https://watchindia.net:8443/live/54615/71210/2020.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
 https://watchindia.net:8443/live/54615/71210/298.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies USA
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies USA
 https://watchindia.net:8443/live/54615/71210/2021.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png",Colors HD Marathi
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Colors_HD.png",Colors HD Marathi
 https://watchindia.net:8443/live/54615/71210/912.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/MBO.png",Malayalam Box Office
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/malayalam/MBO.png",Malayalam Box Office
 https://watchindia.net:8443/live/54615/71210/2156.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Sony.png",Sony
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Sony.png",Sony
 https://watchindia.net:8443/live/54615/71210/919.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Star_Pravah_HD.png",Star Pravah HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/marathi/Star_Pravah_HD.png",Star Pravah HD
 https://watchindia.net:8443/live/54615/71210/918.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
 https://watchindia.net:8443/live/54615/71210/845.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/KBO_Classic.png",Kollywood Box Office Classic
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/KBO_Classic.png",Kollywood Box Office Classic
 https://watchindia.net:8443/live/54615/71210/2153.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png",ETV
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png",ETV
 https://watchindia.net:8443/live/54615/71210/936.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png",ETV Life
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png",ETV Life
 https://watchindia.net:8443/live/54615/71210/938.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png",ETV Plus
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png",ETV Plus
 https://watchindia.net:8443/live/54615/71210/937.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png",Gemini Comedy
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png",Gemini Comedy
 https://watchindia.net:8443/live/54615/71210/971.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png",Gemini Life HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png",Gemini Life HD
 https://watchindia.net:8443/live/54615/71210/931.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png",Gemini Movies HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png",Gemini Movies HD
 https://watchindia.net:8443/live/54615/71210/930.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png",Gemini Music HD
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png",Gemini Music HD
 https://watchindia.net:8443/live/54615/71210/929.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png",Gemini TV
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png",Gemini TV
 https://watchindia.net:8443/live/54615/71210/928.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Jaya_TV.png",Jaya TV
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/telugu/Jaya_TV.png",Jaya TV
 https://watchindia.net:8443/live/54615/71210/964.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png",Zee
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png",Zee
 https://watchindia.net:8443/live/54615/71210/887.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
-#EXTINF:-1 group-title="TAMIL  **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png",Zee Thirai
+#EXTINF:-1 group-title="TAMIL & ETC **VIP**" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png",Zee Thirai
 https://watchindia.net:8443/live/54615/71210/2142.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+
+
+
 
 
 
@@ -462,6 +494,17 @@ https://watchindia.net:8443/live/54615/71210/2042.ts?token=10d821821daa91b66e8dc
 https://watchindia.net:8443/live/54615/71210/2044.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
 #EXTINF:-1 group-title="DOCUMENTRY **VIP**" tvg-logo="http://watchindia.net/images/channels/usa/Food_Network.png",Food Network
 https://watchindia.net:8443/live/54615/71210/2045.ts?token=10d821821daa91b66e8dca2a9125d8142af9947c-556bbf9541133abad6e8294279e22cb4-1603488444-1603477644
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="KIDS **VIP**" tvg-logo="https://watchindia.net/images/channels/KIDS **VIP**/Sony_Yay.png",Sony Yay
